@@ -4,7 +4,8 @@
     "promotionName": "[마하] 충전식 보풀제거기",
     "salePrice": "7,900",
     "prdid": 5030024,
-    "regNm": "MC Yun",
+    "regNm": "Chloe",
+    "broadType": "VOD",
     "tags": [
       "달리",
       "이미용"
@@ -15,7 +16,8 @@
     "promotionName": "[헬스게이트] 스마트 무선줄넘기",
     "salePrice": "13,000",
     "prdid": 14128875,
-    "regNm": "Chloe",
+    "regNm": "MC Yun",
+    "broadType": "LIVE",
     "tags": [
       "여행",
       "초특가",
@@ -28,6 +30,7 @@
     "salePrice": "69,000",
     "prdid": 18662836,
     "regNm": "Darion",
+    "broadType": "숏방",
     "tags": [
       "아빠",
       "풀스"
@@ -39,6 +42,7 @@
     "salePrice": "5,220",
     "prdid": 19433213,
     "regNm": "John",
+    "broadType": "LIVE",
     "tags": [
       "오늘의딜",
       "핫딜",
@@ -51,6 +55,7 @@
     "salePrice": "139,000",
     "prdid": 20316773,
     "regNm": "Jonny",
+    "broadType": "VOD",
     "tags": [
       "자취생",
       "생활용품",
@@ -861,6 +866,7 @@
     "salePrice": "17,900",
     "prdid": 16975666,
     "regNm": "Diana",
+    "broadType": "VOD",
     "tags": [
       "맛집",
       "핫플레이스",
@@ -873,6 +879,7 @@
     "salePrice": "35,900",
     "prdid": 20003309,
     "regNm": "Ellie",
+    "broadType": "LIVE",
     "tags": [
       "봄",
       "메이크업",
