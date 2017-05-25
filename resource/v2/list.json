@@ -1,0 +1,59 @@
+{
+  "78": {
+    "productName": "유달리 쇼핑호스트 영상1",
+    "promotionName": "원더브라",
+    "salePrice": "7,900",
+    "prdid": 5030024,
+    "regNm": "Dali #",
+    "profileFileUrl": "https://scontent.cdninstagram.com/t51.2885-19/s320x320/13731169_220338565034287_120504233_a.jpg",
+    "videoUrl":"https://s3.ap-northeast-2.amazonaws.com/test-yohan/101.mp4",
+    "broadType": "VOD",
+    "tags": [
+      "원더브라",
+      "이너웨어"
+    ]
+  },
+  "79": {
+    "productName": "이미진 쇼핑호스트 영상2",
+    "promotionName": "산지애 사과",
+    "salePrice": "13,000",
+    "prdid": 14128875,
+    "regNm": "Chloe",
+    "profileFileUrl": "https://scontent.cdninstagram.com/t51.2885-19/s320x320/13731169_220338565034287_120504233_a.jpg",
+    "videoUrl":"https://s3.ap-northeast-2.amazonaws.com/test-yohan/102.mp4",
+    "broadType": "LIVE",
+    "tags": [
+      "꿀사과",
+      "피부미인",
+      "사과"
+    ]
+  },
+  "86": {
+    "productName": "이미진 쇼핑호스트 영상3",
+    "promotionName": "육포육포",
+    "salePrice": "69,000",
+    "prdid": 18662836,
+    "regNm": "Darion",
+    "profileFileUrl": "https://scontent.cdninstagram.com/t51.2885-19/s320x320/13731169_220338565034287_120504233_a.jpg",
+    "videoUrl":"https://s3.ap-northeast-2.amazonaws.com/test-yohan/103.mp4",
+    "broadType": "VOD",
+    "tags": [
+      "육포",
+      "맛나맛나"
+    ]
+  },
+  "86": {
+    "productName": "조은애 쇼핑호스트 영상4",
+    "promotionName": "데싱디바",
+    "salePrice": "7,000",
+    "prdid": 18662836,
+    "regNm": "Darion",
+    "profileFileUrl": "https://scontent.cdninstagram.com/t51.2885-19/s320x320/13731169_220338565034287_120504233_a.jpg",
+    "videoUrl":"https://s3.ap-northeast-2.amazonaws.com/test-yohan/104.mp4",
+    "broadType": "VOD",
+    "tags": [
+      "데싱디바",
+      "여름준비"
+    ]
+  }
+}
